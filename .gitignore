@@ -1,0 +1,9 @@
+Debug/
+Release/
+
+Lab3MatTriangle/Debug/
+Lab3MatTriangle/Release/
+
+ConsoleApp1/obj/
+
+.vs/
