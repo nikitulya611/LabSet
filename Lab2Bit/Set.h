@@ -30,6 +30,8 @@ public:
 
 	bool isEmpty() const;
 
+	BitField getBitField() { return bitField; }
+
 private:
 	int maxPower;
 	BitField bitField;
